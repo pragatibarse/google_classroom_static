@@ -1,0 +1,349 @@
+.main{
+	height: 720px;
+	width: 100%;
+	float: left;
+}
+.gmail_row{
+	height: 40px;
+	width: 100%;
+	float: left;
+/*	background-color: whitesmoke;
+*/	border-bottom: 2px solid #cccccc;
+
+}
+.gmail_row ul li img{
+height: 20px;
+width: 20px;
+float: left;
+margin-top: 5px;
+margin-left: 12px;
+}
+.gmail_row ul li {
+margin-top: -10px;
+display: inline-block;
+list-style-type: none;
+font-size: 18px;
+margin-left: 1px;
+}
+
+
+
+
+.gmail_row2{
+	height: 65px;
+	width: 100%;
+	float: left;
+/*	background-color: whitesmoke;
+*/	border-bottom: 2px solid #cccccc;
+	display: inline-block;
+}
+.gmail_row2 i{
+	font-size: 19px;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+.gmail_row2 h1{
+	margin-left: 80px;
+	margin-top: -20px;
+	font-size: 14px;
+	font-family: arial;
+}
+.gmail_row2 span{
+	font-weight: normal;
+	font-size: 12px;
+}
+.gmail_row2 ul{
+	display: inline-block;
+	margin-left: 500px;
+	margin-top: -55px;
+	position: absolute;
+	}
+
+
+
+.gmail_row2 li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 40px;
+/*	background-color: yellow;
+*/	padding: 17px;
+}
+.gmail_row2  li:last-child{
+	border-bottom: 4px solid #ff0066;
+	color: #ff0066;
+	margin-left: 70px;
+}
+.icon{
+	float: left;
+margin-top:-111px;
+}
+.icon ul li{
+	margin-left: 1430px;
+	display: inline-block;
+	list-style-type: none;
+	font-size: 30px;
+	margin-top: 20px;
+} 
+
+.icon ul img{
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	float: left;
+	margin-top: -580px;
+	margin-left: -60px;
+}
+.icon ul li i{
+	font-size: 30px;
+	position: absolute;
+	margin-top: -610px;
+}
+
+.gmail_row3{
+	height: 70px;
+	width: 100%;
+/*	background-color: yellow;
+*/	border-bottom: 2px solid #cccccc;
+	float: left;
+	margin-top:-630px;
+}
+.return{
+	height: 43px;
+	width: 100px;
+	float: left;
+	background-color: #e6e6e6;
+	margin-left: 100px;
+	margin-top: 10px;
+	text-align: center;
+	border-radius: 5px;
+}
+.return h1{
+	color: grey;
+	font-size: 18px;
+	font-family: sans-serif;
+	text-align: center;
+}
+.return i{
+	font-size: 20px;
+	margin-left: 85px;
+	position: absolute;
+	margin-top: -35px;
+	color: grey;
+}
+.return h2{
+	font-size: 17px;
+	font-family: sans-serif;
+	position: absolute;
+	margin-left: 210px;
+	margin-top: -47px;
+	display: inline-block;
+/*	background-color: whitesmoke;
+*/padding: 10px;
+	width: 100px;
+	border-bottom: 2px solid #cccccc;
+	text-align: left;
+}
+.more{
+	margin-left: 290px;
+	margin-top: -1px;
+}
+.settings i{
+	margin-left: 1330px;
+	color: black;
+}
+
+.contact_contents{
+	height: 560px;
+	width: 33%;
+	float: left;
+/*	background-color: red;
+*/	margin-top: -555px;
+	overflow-y: scroll;
+}
+
+.box{
+	height: 150px;
+	width: 100%;
+	float: left;
+/*	background-color: yellow;
+*/}
+.box input{
+	height: 20px;
+	width: 20px;
+	margin-left:-22px;
+}
+.box i{
+	font-size: 30px;
+	color: #ff0066;
+}
+.box li{
+	display: inline-block;
+	margin-left: 12px;
+}
+
+.students{
+	height: 20px;
+	width: 100%;
+	background-color: white;
+	margin-top: -13px;
+}
+.students li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 16px;
+	font-family: sans-serif;
+	margin-top: -26px;
+}
+.students input{
+	height: 20px;
+	width: 20px;
+	margin-top: 10px;
+}
+.sorted{
+	font-size: 17px;
+/*	background-color: yellow;
+*/	height: 30px;
+}
+.sorted p{
+	margin-left: 120px;
+	margin-top: 10px;
+}
+.sorted i{
+	margin-top: -35px;
+	position: absolute;
+	margin-left: 290px;
+}
+.turn_in{
+	height: 30px;
+	background-color: grey;
+	border-bottom: 2px solid #cccccc;
+}
+.turn_in input{
+	height: 20px;
+	width: 20px;
+	margin-top: 3px;
+	margin-left: 51px;
+}
+.turn_in p{
+	position: absolute;
+	margin-top: -29px;
+	margin-left: 120px;
+}
+.student_name{
+	height: 70px;
+	width: 100%;
+/*	background-color: pink;
+*/	float: left;
+	border-top: 2px solid #cccccc;
+	border-bottom: 2px solid #cccccc;
+
+}
+.student_name input{
+	height: 20px;
+	width: 20px;
+	margin-left: -19px;
+}
+.student_name i{
+	font-size: 30px;
+	margin-left: 20px;
+	color:blue;
+	margin-top: 3px;
+}
+.student_name li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 7px;
+}
+.name{
+	font-size: 17px;
+	margin-top: -20px;
+/*	background-color: yellow;
+*/		padding: 26px;
+	margin-left: 20px;
+
+}
+.student_name span{
+	margin-left: 70px;
+	font-size: 20px;
+padding: 26px;
+	margin-left: 20px;
+	
+}
+.half_name{
+	height: 100%;
+	width: 70%;
+	float: left;
+	background-color: white;
+	border-right: 3px solid #cccccc;
+	
+}
+.green h3{
+	color: green;
+	margin-left: 40px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.contact_details{
+	height: 540px;
+	width: 67%;
+	float: left;
+/*	background-color: yellow;
+*/	margin-top: -545px;
+	overflow-y: scroll;
+}
+.div1{
+	height: 80px;
+	width: 80px;
+	float: left;
+	background-color: white;
+	margin-left: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
+.div1 h1{
+	margin-top: 10px;
+}
+.div1 p{
+	margin-top: -13px;
+}
+
+.row33{
+	height: 50px;
+	width: 320px;
+	float: left;
+	background-color: white;
+	margin-top: 110px;
+	margin-left: -170px;
+}
+.row33 li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 15px;
+}
+.contact_row{
+	height: 90px;
+	width: 100%;
+	float: left;
+/*	background-color: grey;
+*/	margin-top: 25px;
+}
+.subrow{
+	height: 100%;
+	width: 180px;
+	float: left;
+	background-color: #e6e6e6;
+	border-radius: 5px;
+	margin-left: 25px;
+}
+.subrow li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 17px;
+}
+.subrow i{
+	font-size: 30px;
+	margin-left: -20px;
+	color: blue;
+}
